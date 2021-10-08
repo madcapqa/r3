@@ -1,0 +1,150 @@
+/*<meta />*/
+
+/*<meta sourceDocument="C:\Users\Don\Desktop\Form - petition.doc" />*/
+
+p
+{
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ol
+{
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+ul
+{
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+li
+{
+	font-size: 12pt;
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+td
+{
+	font-size: 12pt;
+	vertical-align: top;
+}
+
+p.Title
+{
+	font-size: 12pt;
+	text-align: center;
+	font-weight: bold;
+}
+
+h1.Heading1
+{
+	font-size: 12pt;
+	page-break-after: avoid;
+	text-align: center;
+	mc-heading-level: 1;
+	font-weight: bold;
+	font-style: italic;
+}
+
+span.Strong
+{
+	font-weight: bold;
+}
+
+p.BodyText
+{
+	font-size: 12pt;
+	font-weight: bold;
+}
+
+h2.Heading2
+{
+	font-size: 12pt;
+	page-break-after: avoid;
+	mc-heading-level: 2;
+	font-style: italic;
+	font-weight: normal;
+}
+
+p.p_1
+{
+	text-align: center;
+}
+
+span.span_1
+{
+	font-size: 11pt;
+}
+
+span.span_2
+{
+	font-weight: bold;
+	font-size: 11pt;
+	text-decoration: underline;
+}
+
+span.Strong_1
+{
+	font-weight: normal;
+	color: #000000;
+	font-size: 11pt;
+}
+
+span.Strong_2
+{
+	font-weight: normal;
+	color: #000000;
+	font-size: 11pt;
+	text-decoration: underline;
+}
+
+p.p_2
+{
+	text-align: justify;
+}
+
+p.BodyText_1
+{
+	font-weight: bold;
+	text-align: center;
+	font-size: 14pt;
+}
+
+p.p_3
+{
+	text-align: center;
+	font-weight: bold;
+}
+
+p.p_4
+{
+	font-size: 8pt;
+}
+
+p.p_5
+{
+	font-size: 10pt;
+}
+
+h2.Heading2_1
+{
+	page-break-after: avoid;
+	mc-heading-level: 2;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 10pt;
+}
+
+span.span_3
+{
+	font-weight: bold;
+	font-size: 8pt;
+}
+
